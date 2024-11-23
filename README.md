@@ -18,10 +18,9 @@
 * Added Force subscribe (Only channel subscribes can use the bot)
 * Ability to restrict groups(AUTH_GROUPS)
 
-#### Deploy To Heroku
+#### Deploy To Koyeb
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3)
-
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=autofilterbotv3&type=git&repository=SHAMMASBRO%2FAutoFilterBotV3&branch=master&builder=buildpack&ports=8000%3Bhttp%3B%2F)
 #### Hard Way
 ```bash
 # Create virtual environment
